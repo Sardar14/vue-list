@@ -37,7 +37,7 @@ data()
         title:'Azad', 
         item:'',
         notes:[
-            {text:'Item1', isDone:False},
+            {text:'Item1', isDone:false},
             {text:'Item2', isDone:false},
             {text:'Item3', isDone:false},
             {text:'Item4', isDone:true},
